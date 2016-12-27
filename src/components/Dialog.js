@@ -153,6 +153,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     position: 'absolute',
+    zIndex: 1,
     top: 0,
     left: 0,
     width: WIDTH,
